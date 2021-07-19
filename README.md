@@ -1,5 +1,5 @@
 # etsy-scraper
-Etsy-Scraper python project provides functionality to scrape etsy.com shops, categories and shops.
+Etsy-Scraper python project provides functionality to scrape etsy.com shops, categories and products.
 
 Create a Mysql Database with schema defined in db-schema.sql
 
